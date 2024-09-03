@@ -308,12 +308,6 @@ html {
     align-items: center;
 }
 
-.intro1 {
-    color: white;
-    font-size: 30px;
-    font-family: oswald;
-}
-
 .img5 {
     width: 348px;
     height: 348px;
@@ -325,12 +319,6 @@ html {
     align-items: center;
 }
 
-.intro2 {
-    color: white;
-    font-size: 30px;
-    font-family: oswald;
-}
-
 .img6 {
     width: 348px;
     height: 348px;
@@ -340,6 +328,27 @@ html {
     background-size: cover;
     justify-content: center;
     align-items: center;
+}
+
+.introcard {
+    width: 100%;
+    height: 50px;
+    font-family: oswald;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.intro1 {
+    color: white;
+    font-size: 30px;
+    font-family: oswald;
+}
+
+.intro2 {
+    color: white;
+    font-size: 30px;
+    font-family: oswald;
 }
 
 .intro3 {
